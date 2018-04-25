@@ -4,6 +4,7 @@ public class TestCase1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("added test case1");
+		System.out.println("added some logic for test case1");
 	}
 
 }
