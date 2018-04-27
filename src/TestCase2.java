@@ -5,8 +5,14 @@ public class TestCase2 {
 		System.out.println("added test case two");
 	}
 
+	public void multiplication(int a, int b, int c) {
+		int d = a * b * c;
+		System.out.println(d);
+	}
+
 	public void multiplication(int a, int b) {
 		int c = a * b;
 		System.out.println(c);
+
 	}
 }
